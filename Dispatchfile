@@ -13,7 +13,7 @@ resource:
     type: git
   gitops-git:
     param:
-      url: https://github.com/<your-github-user>/cicd-hello-world-gitops
+      url: https://github.com/PeaceyPea/cicd-hello-world-gitops
     type: git
 
 task:
